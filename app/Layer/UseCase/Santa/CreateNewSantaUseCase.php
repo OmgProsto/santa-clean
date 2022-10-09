@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Layer\UseCase;
+namespace App\Layer\UseCase\Santa;
 
 use App\Layer\Domain\Santa\Dto\CreateSantaDto;
 use App\Layer\Domain\Santa\SantaBuilder;

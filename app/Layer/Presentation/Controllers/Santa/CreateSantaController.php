@@ -6,7 +6,7 @@ use App\Layer\Domain\Santa\Dto\CreateSantaDto;
 use App\Layer\Presentation\Controllers\Controller;
 use App\Layer\Presentation\Requests\Santa\CreateSantaRequest;
 use App\Layer\Presentation\View\Santa\SantaView;
-use App\Layer\UseCase\CreateNewSantaUseCase;
+use App\Layer\UseCase\Santa\CreateNewSantaUseCase;
 
 class CreateSantaController extends Controller
 {

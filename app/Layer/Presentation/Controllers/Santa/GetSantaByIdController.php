@@ -4,7 +4,7 @@ namespace App\Layer\Presentation\Controllers\Santa;
 
 use App\Layer\Presentation\Controllers\Controller;
 use App\Layer\Presentation\View\Santa\SantaView;
-use App\Layer\UseCase\GetSantaByIdUseCase;
+use App\Layer\UseCase\Santa\GetSantaByIdUseCase;
 
 class GetSantaByIdController extends Controller
 {
